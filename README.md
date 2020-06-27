@@ -2,9 +2,10 @@
 <br>
     <img src="https://i.ibb.co/8Dwk9L4/capa.png"    alt="Ecoleta" width="720">
 <br>
+    
 
 
-<p align="center">Descrição projeto</p>
+
 <p align="center">	
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/LauroCosta/Ecoleta">
     
