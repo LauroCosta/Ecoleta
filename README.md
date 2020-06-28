@@ -3,8 +3,7 @@
     <img src="https://i.ibb.co/8Dwk9L4/capa.png"    alt="Ecoleta" width="720">
 <br>
     
-
-
+Application developed during [Next Level Week 1][NLW], 
 
 <p align="center">	
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/LauroCosta/Ecoleta">
@@ -95,4 +94,5 @@ $ yarn start
 [expo]: https://expo.io/
 [reactjs]: https://reactjs.org
 [rn]: https://facebook.github.io/react-native/
+[NLW]: https://blog.rocketseat.com.br/primeira-next-level-week/
 [yarn]: https://yarnpkg.com/
